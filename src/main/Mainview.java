@@ -6,7 +6,7 @@ public class Mainview implements Serializable {
 
 	private static final long serialVersionUID = 1L;
 	
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 		
 		JFrame frame = new JFrame();
 		frame.setTitle("Διαχείριση Ραντεβού σε Ιατρείο");
@@ -36,6 +36,6 @@ public class Mainview implements Serializable {
         
 		frame.setVisible(true);
 	
-	}
+	}*/
 } 
 
