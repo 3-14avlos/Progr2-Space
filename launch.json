@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main", // Αν είναι σε πακέτο, βάλτε το πλήρες όνομα του πακέτου π.χ. "com.example.Main"
+            "projectName": "Progr2-Space"
+        }
+    ]
+}
